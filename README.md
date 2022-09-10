@@ -1,6 +1,6 @@
 # PCVita
 Laptop meets PS Vita. 
-I'm documenting how I've turned an old gaming laptop collecting dust in my closet into a DIY Steam Deck for on-the-go gaming.
+I'm documenting how I've turned an old gaming laptop collecting dust in my closet into a DIY Steam Deck for on-the-go gaming. To be clear, this is not cheaper than a steam deck by any meaningful amount, but this was a wonderful way to recycle something that would have gone to waste otherwise. Be enviromentally considerate!
 
 🤍 Where I'm at: Design phase!
 
@@ -29,3 +29,5 @@ Sequential Updates:
 • Tested display output and installed Windows 11 + HP drivers needed to improve preformance.
 
 [image]
+
+• 
