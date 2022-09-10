@@ -6,6 +6,8 @@ I'm documenting how I've turned an old gaming laptop collecting dust in my close
 
 Most Current Update:
 
+• Case re-re-design to look more like the PS Vita. Rounded edges and a curved bottom shell for better ergonomics.
+
 [Image]
 
 Sequential Updates:
@@ -30,4 +32,18 @@ Sequential Updates:
 
 [image]
 
-• 
+• 3D modeled motherboard into Fusion 360.
+
+• 3D modeled exhaust channel for the new heatsinks.
+
+• Edited exhaust model to include more effective turning vanes to minimise heat that cannot escape.
+
+• 3D modeled portable monitor into project
+
+• 3D modeled laptop li-po battery into project
+
+• Designed wedge 2DS-like case and moved components around to fit.
+
+• Re-designed layout to fit Wii U Gamepad model from GrabCAD
+
+• Case re-re-design to look more like the PS Vita. Rounded edges and a curved bottom shell for better ergonomics.
