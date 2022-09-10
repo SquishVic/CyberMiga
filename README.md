@@ -8,7 +8,9 @@ Most Current Update:
 
 • Case re-re-design to look more like the PS Vita. Rounded edges and a curved bottom shell for better ergonomics.
 
-[Image]
+![name](https://github.com/SquishVic/PCVita/blob/main/Screen%20Shot%202022-09-10%20at%201.00.36%20PM.png?raw=true)
+
+.
 
 Sequential Updates:
 
@@ -20,17 +22,23 @@ Sequential Updates:
 
 • Soldered magnet wire to (+) and (-) terminals of on/off switch.
 
-[image]
+![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/20220817_183913.jpg)
+
+.
 
 • Added NVMe M.2 SSD to replace bulky hard drive
 
-[image]
+![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/20220817_183937.jpg)
+
+.
 
 • Removed Heatpipes from heatsink shrowd. They extended the form factor of the motherboard too much for my liking. Using thermally conductive adhesive, I added copper fin heatsinks(rated at 401 W) to the shrowd.
 
 • Tested display output and installed Windows 11 + HP drivers needed to improve preformance.
 
-![Screenshot](runningwin11.jpg)
+![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/runningwin11.jpg)
+
+.
 
 • 3D modeled motherboard into Fusion 360.
 
@@ -47,3 +55,6 @@ Sequential Updates:
 • Re-designed layout to fit Wii U Gamepad model from GrabCAD
 
 • Case re-re-design to look more like the PS Vita. Rounded edges and a curved bottom shell for better ergonomics.
+
+![name](https://github.com/SquishVic/PCVita/blob/main/Screen%20Shot%202022-09-10%20at%201.00.36%20PM.png?raw=true)
+![name](https://github.com/SquishVic/PCVita/blob/main/Screen%20Shot%202022-09-10%20at%2012.15.30%20PM.png?raw=true)
