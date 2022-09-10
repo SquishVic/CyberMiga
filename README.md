@@ -42,6 +42,10 @@ Sequential Updates:
 
 • 3D modeled motherboard into Fusion 360.
 
+![name](https://github.com/SquishVic/PCVita/blob/main/motherboard.png?raw=true)
+
+.
+
 • 3D modeled exhaust channel for the new heatsinks.
 
 • Edited exhaust model to include more effective turning vanes to minimise heat that cannot escape.
