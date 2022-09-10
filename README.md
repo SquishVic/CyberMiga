@@ -30,7 +30,7 @@ Sequential Updates:
 
 • Tested display output and installed Windows 11 + HP drivers needed to improve preformance.
 
-![Screenshot](20220818_141528.jpg)
+![Screenshot](runningwin11.jpg)
 
 • 3D modeled motherboard into Fusion 360.
 
