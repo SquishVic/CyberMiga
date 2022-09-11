@@ -2,7 +2,13 @@
 Laptop meets PS Vita. 
 I'm documenting how I've turned an old gaming laptop collecting dust in my closet into a DIY Steam Deck for on-the-go gaming. To be clear, this is not cheaper than a steam deck by any meaningful amount, but this was a wonderful way to recycle something that would have gone to waste otherwise. Be enviromentally considerate!
 
-🤍 Where I'm at: Design phase!
+—
+
+Where I'm at:
+
+Design phase! 🤍
+
+—
 
 Most Current Update:
 
@@ -10,7 +16,7 @@ Most Current Update:
 
 ![name](https://github.com/SquishVic/PCVita/blob/main/Screen%20Shot%202022-09-10%20at%201.00.36%20PM.png?raw=true)
 
-.
+—
 
 Sequential Updates:
 
@@ -23,28 +29,18 @@ Sequential Updates:
 • Soldered magnet wire to (+) and (-) terminals of on/off switch.
 
 ![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/20220817_183913.jpg)
-
-.
-
-• Added NVMe M.2 SSD to replace bulky hard drive
-
 ![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/20220817_183937.jpg)
 
-.
+• Added NVMe M.2 SSD to replace bulky hard drive
 
 • Removed Heatpipes from heatsink shrowd. They extended the form factor of the motherboard too much for my liking. Using thermally conductive adhesive, I added copper fin heatsinks(rated at 401 W) to the shrowd.
 
 • Tested display output and installed Windows 11 + HP drivers needed to improve preformance.
 
 ![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/runningwin11.jpg)
-
-.
-
-• 3D modeled motherboard into Fusion 360.
-
 ![name](https://github.com/SquishVic/PCVita/blob/main/motherboard.png?raw=true)
 
-.
+• 3D modeled motherboard into Fusion 360.
 
 • 3D modeled exhaust channel for the new heatsinks.
 
