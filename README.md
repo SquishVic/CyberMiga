@@ -24,12 +24,13 @@ Sequential Updates:
 
 • Once everything was out, I disconnected daughterboards, hard drive, battery, and ribbon cables from motherboard.
 
+![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/mobo%20w%3Ao%20daughterboards.jpg)
+
 • Desoldered ribbon cable connector on the motherboard which lead to USB and Power Button Daughterboard.
 
 • Soldered magnet wire to (+) and (-) terminals of on/off switch.
 
-![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/20220817_183913.jpg)
-![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/20220817_183937.jpg)
+![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/magnetwireattached.jpg)
 
 • Added NVMe M.2 SSD to replace bulky hard drive
 
@@ -37,10 +38,9 @@ Sequential Updates:
 
 • Tested display output and installed Windows 11 + HP drivers needed to improve preformance.
 
-![name](https://raw.githubusercontent.com/SquishVic/PCVita/main/runningwin11.jpg)
-![name](https://github.com/SquishVic/PCVita/blob/main/motherboard.png?raw=true)
-
 • 3D modeled motherboard into Fusion 360.
+
+![name](https://github.com/SquishVic/PCVita/blob/main/motherboard.png?raw=true)
 
 • 3D modeled exhaust channel for the new heatsinks.
 
