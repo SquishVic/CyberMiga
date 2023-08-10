@@ -36,6 +36,8 @@ Sequential Updates:
 
 • Added NVMe M.2 SSD to replace bulky hard drive
 
+• Added additional 8gb stick of ram.
+
 • Removed Heatpipes from heatsink shrowd. They extended the form factor of the motherboard too much for my liking. Using thermally conductive adhesive, I added copper fin heatsinks(rated at 401 W) to the shrowd.
 
 • Tested display output and installed Windows 11 + HP drivers needed to improve preformance.
@@ -75,8 +77,36 @@ Sequential Updates:
 
 • Changed fan cutouts to have a slant, they looked more stylish and fit the aesthetic I was going for.
 
-• 
+• Added cutouts for USB hub, power button, and motherboard headers
 
-• Assembly complete, ready to take to my apartment!
+• Removed keyboard cutout in favor of a simple hole. I was afraid that the cutout could be too big or small to fit around the keys.
+
+![name](https://github.com/SquishVic/CyberMiga/blob/main/Screenshot%202023-08-10%20at%2012.59.43%20PM.png)
+
+• Cut the shell into four parts to fit on my 3D printer's print surface.
+
+• Applied for access to the large printer in the UT Austin Engineering Building.
+
+• Approved, now I can print the shell in only two pieces.
+
+• Post-processing, removing supports, and lightly sanding surfaces.
+
+• I was having trouble tapping the screws into the plastic, but I was able to get the motherboard in the right position. Using screws ensures that I can take out the components if I ever revise the design.
+
+• Added a piece of mesh to the fan intake. After printing, I noticed how large the cutouts are, and Im afraid that large particulate could easily fall in.
+
+• Hot glued USB Header into place.
+
+• Nano taped the Wifi module and the keyboard USB header to the bottom of the case.
+
+• Used two-part epoxy to attach the top and bottom shells together. Cleaned up the edges once the glue cured.
+
+• By removing the keyboard the internals are still accessible. It is still possible to completely disassemble the computer and put it back together.
+
+• Bought a fan controller for the case fans. Even at full blast, they are not too loud, however, I was able to lower the speed while keeping good thermals.
+
+• Further stress testing showed that the computer had improved its thermals significantly and was now able to do light to medium tasks without thermal throttling. However, I wanted to improve the performance however possible. So I looked into using ThrottleStop. The performance boost seemed minimal to none, however, I was able to get the computer to undervolt a significant amount.
+
+• Assembly and Testing complete, ready to take to my apartment!
 
 ![name](https://github.com/SquishVic/CyberMiga/blob/main/20230705_234218.jpg)
