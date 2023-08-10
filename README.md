@@ -19,8 +19,11 @@ Most Current Update:
 —
 
 Sequential Updates:
+Computer prior to disassembly:
 
-• (Original design reflected that of the Steam Deck or a large Playstation Vita)
+![name](https://github.com/SquishVic/CyberMiga/blob/main/PXL_20211116_014823601.jpg)
+
+• (Original design was to make the system as portable as possible)
 
 • Harvesting the vitals! Removed all components from laptop case.
 
