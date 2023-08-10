@@ -12,9 +12,9 @@ Fully Functional
 
 Most Current Update:
 
-• Case re-re-design to look more like the PS Vita. Rounded edges and a curved bottom shell for better ergonomics.
+• Assembly complete, ready to take to my apartment!
 
-![name](https://github.com/SquishVic/PCVita/blob/main/Screen%20Shot%202022-09-10%20at%201.00.36%20PM.png?raw=true)
+![name](https://github.com/SquishVic/CyberMiga/blob/main/20230705_234218.jpg)
 
 —
 
@@ -76,3 +76,7 @@ Sequential Updates:
 • Changed fan cutouts to have a slant, they looked more stylish and fit the aesthetic I was going for.
 
 • 
+
+• Assembly complete, ready to take to my apartment!
+
+![name](https://github.com/SquishVic/CyberMiga/blob/main/20230705_234218.jpg)
