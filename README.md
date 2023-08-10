@@ -69,6 +69,8 @@ Sequential Updates:
 
 • The first design for the case followed an angular wedge design. However, after making a miniature test print I thought that the design was a little too angular. After doing some research online, I decided that I wanted to mimic the triangular side profile of the Amiga and the Commodore. 
 
+![name](https://github.com/SquishVic/PCVita/blob/main/Screenshot%202023-03-23%20at%201.08.40%20PM.png)
+
 • Added fan cutouts
 
 • Changed fan cutouts to have a slant, they looked more stylish and fit the aesthetic I was going for.
