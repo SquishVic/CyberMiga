@@ -1,4 +1,4 @@
-# PCVita
+# CyberMiga
 Laptop meets Amiga, Meets Commodore.
 I'm documenting how I've turned an old gaming laptop collecting dust in my closet into a Cyberdeck. I needed a computer that I could take with me to college, so this turned out to be a wonderful way to recycle something that would have gone to waste otherwise. Be environmentally considerate!
 
